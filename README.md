@@ -31,9 +31,7 @@
 *
 *
 ## 🔍 2- Avalie com suas palavras: 
-*
-*
-*
+
 ### O site disponibiliza horários/salas atualizadas semanalmente? O que te atrapalha em reservar sua escolha? 
 *
 *
@@ -47,9 +45,7 @@
 *
 *
 ## 🔍 3- Responda conforme se pede: 
-*
-*
-*
+
 ### Se houvesse um mecanismo que acompanha a leitura, em sua opinião, ajudaria os leitores? Salvamento de progresso; livros finalizados, pendentes e desejados a iniciar? 
 *
 *
@@ -59,31 +55,23 @@
 *
 *
 ## Avalie de 1 – 5: 
-*
-*
-*
+
 ### Mecanismo de busca: 
 *
 *
 *
 ## Avalie de 1- 5: 
-*
-*
-*
+
 ### Agilidade e design:
 *
 *
 *
 ## Avalie de 1 – 5: 
-*
-*
-*
+
 ### Descrição - tutorial – modo de uso – suporte :  
 *
 *
 *
 # AGREDECEMOS PELA SUA COLABORAÇÃO E FEEDBACK! ✅
-*
-*
-*
+
 ### _DESENVOLVIDO POR:_ _MATHEUS OLIVEIRA BARROS_
