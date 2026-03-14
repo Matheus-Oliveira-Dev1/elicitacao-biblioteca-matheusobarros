@@ -3,13 +3,9 @@
 
 
 ## 📝A biblioteca da faculdade deseja modernizar a reserva de salas de estudos. Nesse projeto visa questionar e compreender a boa vontade do cliente! Atividade desenvolvida em sala de aula: elicitação - compreensão por meio de questionamentos ao cliente.
-*
-*
-*
+
 ## 🔍 1- Classificação. Notas: 1 – 5 
-*
-*
-*
+
 ## Considere:
 
 ## 1=Muito ruim 
