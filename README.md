@@ -11,29 +11,17 @@
 *
 *
 ## Considere:
-*
-*
-*
+
 ## 1=Muito ruim 
-*
-*
-*
+
 ## 2=Ruim 
-*
-*
-*
+
 ## 3=Regular 
-*
-*
-*
+
 ## 4=Bom 
-*
-*
-*
+
 ## 5=Excelente 
-*
-*
-*
+
 ### Dê uma nota entre 1 – 5, sobre: agilidade do sistema; 
 *
 *
